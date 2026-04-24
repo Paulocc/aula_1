@@ -1,0 +1,1 @@
+print("esse daqui é outro arquivo.")
